@@ -1,0 +1,8 @@
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\bin\Debug\Practica03.exe.config
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\bin\Debug\Practica03.exe
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\bin\Debug\Practica03.pdb
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\obj\Debug\Practica03.csproj.AssemblyReference.cache
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\obj\Debug\Practica03.csproj.SuggestedBindingRedirects.cache
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\obj\Debug\Practica03.csproj.CoreCompileInputs.cache
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\obj\Debug\Practica03.exe
+C:\Users\septi\OneDrive\Documentos\Porgra2\Practica03\Practica03\obj\Debug\Practica03.pdb
